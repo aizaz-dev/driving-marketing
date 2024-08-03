@@ -41,14 +41,15 @@ const Hero = () => {
 
           <div className="mt-5 max-w-3xl text-center mx-auto">
             <p className="text-lg text-gray-600 dark:text-neutral-400">
-              Preline is a large open-source project, crafted with Tailwind CSS
-              framework by Hmlstream.
+              Discover seamless driving experiences with our innovative
+              solutions. Enhance safety, efficiency, and comfort on every
+              journey. Drive smarter today!
             </p>
           </div>
 
           <div className="mt-8 gap-3  flex justify-center">
             <a
-              className="inline-flex justify-center items-center gap-x-3 text-center bg-gradient-to-tl from-main to-accent hover:from-violet-600 hover:to-blue-600 focus:outline-none focus:from-violet-600 focus:to-blue-600 border border-transparent text-white text-sm font-medium rounded-full py-3 px-4"
+              className="inline-flex justify-center items-center gap-x-3 text-center bg-main text-white text-sm font-medium rounded-full py-3 px-4"
               href="#"
             >
               <svg

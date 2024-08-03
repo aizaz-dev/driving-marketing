@@ -106,28 +106,28 @@ const Header = () => {
             </div>
             <div>
               <Link href="#">
-                <span className="inline-block text-white hover:text-gray-600 focus:outline-none focus:text-gray-600 dark:text-white dark:hover:text-neutral-300 dark:focus:text-neutral-300">
+                <span className="inline-block text-white">
                   Services
                 </span>
               </Link>
             </div>
             <div>
               <Link href="#">
-                <span className="inline-block text-white hover:text-gray-600 focus:outline-none focus:text-gray-600 dark:text-white dark:hover:text-neutral-300 dark:focus:text-neutral-300">
+                <span className="inline-block text-white">
                   About
                 </span>
               </Link>
             </div>
             <div>
               <Link href="#">
-                <span className="inline-block text-white hover:text-gray-600 focus:outline-none focus:text-gray-600 dark:text-white dark:hover:text-neutral-300 dark:focus:text-neutral-300">
+                <span className="inline-block text-white">
                   Careers
                 </span>
               </Link>
             </div>
             <div>
               <Link href="#">
-                <span className="inline-block text-white hover:text-gray-600 focus:outline-none focus:text-gray-600 dark:text-white dark:hover:text-neutral-300 dark:focus:text-neutral-300">
+                <span className="inline-block text-white">
                   Blog
                 </span>
               </Link>
